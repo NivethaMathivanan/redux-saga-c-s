@@ -1,0 +1,31 @@
+.listOne{
+    border: 1px solid grey;
+}
+.listOne:hover{
+    background-color: rgb(119, 45, 45);
+    color: white;
+}
+.listTwo{
+    border: 1px solid grey;
+}
+.listTwo:hover{
+    background-color: rgb(71, 105, 20);
+    color: white;
+}
+.listThree{
+    border: 1px solid grey;
+}
+.listThree:hover{
+     
+    background-color: rgb(145, 223, 223);
+}
+.buttonFour:hover{
+    background-color: #8d3b50;
+    color: white;
+    
+}
+.buttonFour{
+    background-color: #8d3b50;
+    color: white;
+
+}
